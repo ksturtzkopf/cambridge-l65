@@ -1,0 +1,32 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+
+tmp
+data
+data_files
+
+.mypy_cache
+.ruff_cache
+checkpoints
+
+
+report/*
+!report/**/*.tex
+!report/**/*.sty
+!report/**/*.bib
+
+!report/**/*.ipynb
+!report/**/*.py
+report/**/*.aux
+
+!report/figures
+.DS_STORE
