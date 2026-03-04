@@ -1,5 +1,8 @@
 """
 Effectively just the implementation from SubgraphRAG here!
+
+https://github.com/Graph-COM/SubgraphRAG/blob/main/retrieve/src/model/retriever.py
+
 """
 
 import torch
